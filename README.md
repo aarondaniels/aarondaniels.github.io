@@ -1,4 +1,4 @@
-# aaronious12.github.io
+# aarondaniels.github.io
 # Portfolio
 
 ## Repository for Activities 9.1 and 9.2
